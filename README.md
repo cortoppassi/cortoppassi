@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
-### Olá, eu sou Jonathan cortoppassi
+-👨‍💻 “A mente criativa brinca com os objetos que ama.”
 
 - 🌱 Estudante de Desenvolvimento Web...
 - 📫 Jonathan-516@hotmail.com
