@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
-<strong>“A mente criativa brica com os objetos que ama.”</strong>
+<strong>“A mente criativa brinca com os objetos que ama.”</strong>
 
 - 🌱 Estudante de Desenvolvimento Web...
 - 📫 Jonathan-516@hotmail.com
