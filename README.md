@@ -3,9 +3,9 @@
 
 <strong>“A mente criativa brinca com os objetos que ama.”</strong>
 
-- 🌱 Estudante de Desenvolvimento Web...
+- 🌱 Graduando em Analise e Desenvolvimento de Sistemas...
 - 📫 Jonathan-516@hotmail.com
-- 🧑‍💼 Sem experiencia de atuação
+- 🧑‍💼 Atualmente faço alguns projetos pessoais, buscando aprimorar minhas habilidades e conhecimentos.
 
 ##
 
