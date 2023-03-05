@@ -3,7 +3,7 @@
 
 <strong>“A mente criativa brinca com os objetos que ama.”</strong>
 
-- 🌱 Graduando em Analise e Desenvolvimento de Sistemas...
+- 🌱 Graduando em Análise e Desenvolvimento de Sistemas
 - 📫 Jonathan-516@hotmail.com
 - 🧑‍💼 Atualmente faço alguns projetos pessoais, buscando aprimorar minhas habilidades e conhecimentos.
 
