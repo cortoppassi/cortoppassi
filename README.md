@@ -5,7 +5,7 @@
 
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas
 - 📫 Jonathan-516@hotmail.com
-- 🧑‍💼 Atualmente faço alguns projetos pessoais, buscando aprimorar minhas habilidades e conhecimentos.
+- 🧑‍💼 Focado em aprimorar minhas habilidades em tecnologias como React e Node JS, buscando projetos desafiadores para expandir meus conhecimentos.
 
 ##
 
