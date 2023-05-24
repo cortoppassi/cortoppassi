@@ -20,7 +20,7 @@
  
  <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="max-        width: 100%;">
           
- <img align="center" alt="Node" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="max-width:    100%;"/>
+ <img align="center" alt="Node" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="max-width:    100%;"/>
                    
  </div>
  
