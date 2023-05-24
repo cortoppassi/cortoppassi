@@ -1,11 +1,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
-<strong>“A mente criativa brinca com os objetos que ama.”</strong>
+<strong>“Buscando projetos desafiadores para expandir meus conhecimentos.”</strong>
 
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas
 - 📫 Jonathan-516@hotmail.com
-- 🧑‍💼 Focado em aprimorar minhas habilidades em tecnologias como React e Node JS, buscando projetos desafiadores para expandir meus conhecimentos.
+- 🧑‍💼 Focado em aprimorar minhas habilidades em tecnologias como React e Node JS.
 
 ##
 
