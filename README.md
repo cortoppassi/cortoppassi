@@ -5,7 +5,7 @@
 
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas
 - 📫 Jonathan-516@hotmail.com
-- 🧑‍💼 Focado em aprimorar minhas habilidades em tecnologias como React e Node JS.
+- 🧑‍💼 Comprometido em encontrar soluções eficientes, adaptando-me a diferentes tecnologias para superar desafios.
 
 ##
 
@@ -13,7 +13,7 @@
   <a href="https://github.com/cortoppassi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortoppassi&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div>
+<!-- <div>
 
  
  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"      style="max-width: 100%;"> 
@@ -22,7 +22,7 @@
           
  <img align="center" alt="Node" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="max-width:    100%;"/>
                    
- </div>
+ </div> -->
  
 ##
 
