@@ -1,11 +1,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
-<strong>“Buscando projetos desafiadores para expandir meus conhecimentos.”</strong>
+<strong>“Comprometido em encontrar soluções eficientes, adaptando-me a diferentes tecnologias para superar desafios.”</strong>
 <br/>
-<br/>🌱 Graduando em Análise e Desenvolvimento de Sistemas
+<br/>🌱 3° Semestre em Análises e Desenvolvimento de Sistemas - UNIFACS.
 <br/>📫 Jonathan-516@hotmail.com
-<br/>🧑‍💼 Comprometido em encontrar soluções eficientes, adaptando-me a diferentes tecnologias para superar desafios.
 <br/>
 <br/><strong>EXPERIÊNCIA</strong>
 <br/>• Desenvolvimento de chatbots e assistentes virtuais.
