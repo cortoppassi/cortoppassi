@@ -2,18 +2,18 @@
           
 
 <strong>“Buscando projetos desafiadores para expandir meus conhecimentos.”</strong>
-<br/><br/>
-🌱 Graduando em Análise e Desenvolvimento de Sistemas
-📫 Jonathan-516@hotmail.com
-🧑‍💼 Comprometido em encontrar soluções eficientes, adaptando-me a diferentes tecnologias para superar desafios.
-<br/><br/>
-<strong>EXPERIÊNCIA</strong>
+<br/>
+<br/>🌱 Graduando em Análise e Desenvolvimento de Sistemas
+<br/>📫 Jonathan-516@hotmail.com
+<br/>🧑‍💼 Comprometido em encontrar soluções eficientes, adaptando-me a diferentes tecnologias para superar desafios.
+<br/>
+<br/><strong>EXPERIÊNCIA</strong>
 <br/>• Desenvolvimento de chatbots e assistentes virtuais.
 <br/>• Gerenciamento de instâncias (EC2) na nuvem.
 <br/>• Automação de navegação por meio do protocolo DevTools.
 <br/>• Desenvolvimento de projetos web, com foco na integração de APIs, otimização de desempenho e implementação de funcionalidades.
 <br/>
-<strong>Portfólio:</strong> https://portifolio-six-drab.vercel.app/
+<br/><strong>Portfólio:</strong> https://portifolio-six-drab.vercel.app/
 
 ##
 
