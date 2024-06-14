@@ -3,7 +3,7 @@
 
 <strong>“Comprometido em encontrar soluções eficientes, adaptando-me a diferentes tecnologias para superar desafios.”</strong>
 <br/>
-<br/>🌱 3° Semestre em Análises e Desenvolvimento de Sistemas - UNIFACS.
+<br/>🌱 4° Semestre em Análises e Desenvolvimento de Sistemas - UNIFACS.
 <br/>📫 Jonathan-516@hotmail.com
 <br/>
 <br/><strong>EXPERIÊNCIA</strong>
