@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
-<strong>“Comprometido em encontrar soluções eficientes, adaptando-me a diferentes tecnologias para superar desafios.”</strong>
+<strong>Atualmente, trabalho como Analista Desenvolvedor na Seidor, desenvolvendo soluções avançadas de IA para diversas necessidades empresariais, focando na qualidade superior e eficiência de custos.</strong>
 <br/>
 <br/>🌱 4° Semestre em Análises e Desenvolvimento de Sistemas - UNIFACS.
 <br/>📫 Jonathan-516@hotmail.com
