@@ -1,16 +1,17 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
-<strong>Atualmente, trabalho como Analista Desenvolvedor na Seidor, desenvolvendo soluções avançadas de IA para diversas necessidades empresariais, focando na qualidade superior e eficiência de custos.</strong>
+<strong>Analista Desenvolvedor na SEIDOR, onde sou responsável por desenvolver soluções de Inteligência Artificial voltadas para otimização de processos empresariais, garantindo qualidade e eficiência de custos.</strong>
 <br/>
-<br/>🌱 4° Semestre em Análises e Desenvolvimento de Sistemas - UNIFACS.
+<br/>🌱 Cursando o 4° Semestre de Análise e Desenvolvimento de Sistemas - UNIFACS.
 <br/>📫 Jonathan-516@hotmail.com
 <br/>
-<br/><strong>EXPERIÊNCIA</strong>
-<br/>• Desenvolvimento de chatbots e assistentes virtuais.
+<br/><strong>Principais habilidades e experiências:</strong>
+<br/>• Desenvolvimento de chatbots e assistentes virtuais com foco em automação e atendimento.
 <br/>• Gerenciamento de instâncias (EC2) na nuvem.
-<br/>• Automação de navegação por meio do protocolo DevTools.
-<br/>• Desenvolvimento de projetos web, com foco na integração de APIs, otimização de desempenho e implementação de funcionalidades.
+<br/>•  Automação de processos utilizando DevTools e outras tecnologias.
+<br/>• Desenvolvimento web full-stack com ênfase em APIs, performance e experiência do usuário.
+<br/>• Trabalho em equipe utilizando metodologias ágeis (Scrum, Kanban) e colaboração em revisões de código.
 <br/>
 <br/><strong>Portfólio:</strong> https://portifolio-six-drab.vercel.app/
 
