@@ -3,7 +3,7 @@
 
 <strong>Analista Desenvolvedor na SEIDOR, onde sou responsável por desenvolver soluções de Inteligência Artificial voltadas para otimização de processos empresariais, garantindo qualidade e eficiência de custos.</strong>
 <br/>
-<br/>🌱 Cursando o 4° Semestre de Análise e Desenvolvimento de Sistemas - UNIFACS.
+<br/>🌱 Cursando último Semestre de Análise e Desenvolvimento de Sistemas - UNIFACS.
 <br/>📫 Jonathan-516@hotmail.com
 <br/>
 <br/><strong>Principais habilidades e experiências:</strong>
