@@ -13,7 +13,6 @@
 <br/>• Desenvolvimento web full-stack com ênfase em APIs, performance e experiência do usuário.
 <br/>• Trabalho em equipe utilizando metodologias ágeis (Scrum, Kanban) e colaboração em revisões de código.
 <br/>
-<br/><strong>Portfólio:</strong> [https://portifolio-six-drab.vercel.app/](https://portifolio-rksv.vercel.app/)
 
 ##
 
