@@ -10,18 +10,17 @@
 <br />
 
 <strong>Principais habilidades e experiências:</strong>  
-• Desenvolvimento de chatbots e assistentes virtuais com foco em automação e atendimento.  
-• Gerenciamento de instâncias EC2 na nuvem.  
-• Automação de processos utilizando DevTools e outras tecnologias.  
-• Desenvolvimento web full-stack com ênfase em APIs, performance e experiência do usuário.  
-• Trabalho em equipe utilizando metodologias ágeis (Scrum, Kanban) e colaboração em revisões de código.
+• Atuação em projetos de implantação de soluções com Inteligência Artificial, voltadas para automação de processos e aumento da eficiência operacional.  
+• Desenvolvimento full-stack de aplicações web, com foco em integração de APIs, performance e qualidade de código.  
+• Criação de assistentes virtuais e chatbots personalizados utilizando modelos LLM, com implementação de fluxos de workflow para automação e orquestração de processos.  
+• Participação em times ágeis, com metodologias Scrum e Kanban, colaborando em revisões de código e entregas contínuas.
 
 <br />
 
 ---
 
 <div align="center">
-  <a href="https://github.com/cortoppassi" target="_blank">
+  <a href="https://github.com/cortoppassi" target="_blank" rel="noopener noreferrer">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortoppassi&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
   </a>
 </div>
