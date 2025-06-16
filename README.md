@@ -1,9 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
 
 <strong>Analista Desenvolvedor na SEIDOR, desenvolvendo soluções avançadas em Inteligência Artificial com foco em eficiência, qualidade e alinhamento às necessidades estratégicas das empresas.</strong>
-
 <br /><br />
-
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas – UNIFACS  
 📫 jonathan-516@hotmail.com  
 
