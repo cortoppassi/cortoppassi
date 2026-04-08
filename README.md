@@ -22,7 +22,6 @@ Analista Desenvolvedor na **SEIDOR**, atuando com produto web **full-stack** e s
 Meu foco é entregar software com **arquitetura clara**, **código testável** e **performance medida**.
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas – **UNIFACS**  
-📍 Salvador – BA  
 
 ---
 
