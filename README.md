@@ -34,15 +34,6 @@ Meu foco é entregar software com **arquitetura clara**, **código testável** e
 
 ---
 
-### Impacto real
-- Atuação contínua em **arquitetura de backend**, com **controllers/services/repositories**, validações, regras de acesso e modelagem/relacionamentos em **Sequelize/MySQL**.
-- Implementação e manutenção de **testes com Jest** (mocks, cenários e correção de falhas), aumentando confiabilidade e facilitando refatorações.
-- Evolução de UI/UX com responsabilidade técnica: **responsividade, filtros, busca, paginação e componentes** (ex.: Swiper/grid), mantendo organização e legibilidade do código.
-- Diagnóstico e correção de comportamento no front, como **requisições duplicadas em reload** e ajustes de **hooks/efeitos**, melhorando previsibilidade e reduzindo desperdício de chamadas.
-- Aplicação prática de boas práticas e padrões para manter o código evolutivo: **redução de condicionais grandes**, reutilização de lógica e desacoplamento (design patterns no dia a dia, quando faz sentido).
-
----
-
 ### Stack
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
