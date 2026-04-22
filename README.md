@@ -49,7 +49,8 @@
 
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cortoppassi&theme=tokyonight" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cortoppassi&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortoppassi&layout=compact&theme=tokyonight" />
+  <!-- <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cortoppassi&theme=tokyonight" /> -->
 </p>
 
 ---
